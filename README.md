@@ -1,6 +1,6 @@
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://res.cloudinary.com/dhv4wd0ap/image/upload/v1768078650/9D0CC93C-171A-4E8E-8C97-2450CF9DCE3C_x26frg.png"/>
 
 <h2> / about me / </h2>
 
@@ -48,7 +48,7 @@
 <br/><br/>
 
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+<a href="https://www.pixiv.net/en/users/35069640">Image by Samuel Ekema</a>
 </div>
 
 </div>
