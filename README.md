@@ -1,3 +1,18 @@
+<!-- ═══════════════ HEADER BANNER ═══════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E5C4E,50:645986,100:29B5E8&height=220&section=header&text=Samuel%20Ekema&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20•%20Data%20Analyst%20•%20CS%20Student&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" width="100%" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=29B5E8&center=true&vCenter=true&width=640&lines=Building+dynamic+data-driven+web+apps;MERN+stack+%7C+Data+Visualization;Turning+raw+data+into+insight;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="typing intro" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge&logo=rocket&logoColor=white" alt="open" />
+<img src="https://img.shields.io/badge/Focus-MERN%20%2B%20Data%20Viz-645986?style=for-the-badge&logo=react&logoColor=white" alt="focus" />
+<img src="https://img.shields.io/badge/Student-Computer%20Science-3E5C4E?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="analyst" />
+
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://res.cloudinary.com/dhv4wd0ap/image/upload/v1768078650/9D0CC93C-171A-4E8E-8C97-2450CF9DCE3C_x26frg.png"/>
